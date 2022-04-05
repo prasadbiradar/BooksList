@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/prasadbiradar/BooksList.git/static/css/main.073c9b0a.css",
+    "main.js": "/prasadbiradar/BooksList.git/static/js/main.1d6d2fcc.js",
+    "static/js/787.fb67f53c.chunk.js": "/prasadbiradar/BooksList.git/static/js/787.fb67f53c.chunk.js",
+    "index.html": "/prasadbiradar/BooksList.git/index.html",
+    "main.073c9b0a.css.map": "/prasadbiradar/BooksList.git/static/css/main.073c9b0a.css.map",
+    "main.1d6d2fcc.js.map": "/prasadbiradar/BooksList.git/static/js/main.1d6d2fcc.js.map",
+    "787.fb67f53c.chunk.js.map": "/prasadbiradar/BooksList.git/static/js/787.fb67f53c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.1d6d2fcc.js"
+  ]
+}
